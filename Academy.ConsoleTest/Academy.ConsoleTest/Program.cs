@@ -12,7 +12,7 @@ namespace Academy.ConsoleTest
         {
             string myString3 = null;
             string myString2 = "test ";
-            myString3 = "stringa 3";
+            myString3 = string.Join("-", args);
 
             var result = myString2 + myString3;
             result = string.Concat(myString2, myString3);
@@ -21,8 +21,10 @@ namespace Academy.ConsoleTest
             int indexA = myString3.IndexOf("a");
 
             Console.WriteLine(result);
+            Console.WriteLine(Constants.aString);
 
-            myString3 = "";
+            string[] myStringArr = new string[] { "a", "b", "c" };
+            Console.WriteLine(myStringArr[1]);
 
             Console.ReadKey();
         }
