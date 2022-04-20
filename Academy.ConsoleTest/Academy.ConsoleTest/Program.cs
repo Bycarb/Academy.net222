@@ -4,6 +4,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Academy.Common;
 
 namespace Academy.ConsoleTest
 {
@@ -14,6 +15,7 @@ namespace Academy.ConsoleTest
             int result;
             bool isParsed = int.TryParse(args[0], out result); //out consente di passare una primitiva per reference
             Console.WriteLine(result);
+            Console.WriteLine(CommonConstants.AcademyName);
 
 
             First2Days(args);

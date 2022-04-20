@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Common\bin\Debug\Academy.Common.dll
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Common\bin\Debug\Academy.Common.pdb
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Common\obj\Debug\Academy.Common.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Common\obj\Debug\Academy.Common.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Common\obj\Debug\Academy.Common.dll
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Common\obj\Debug\Academy.Common.pdb
