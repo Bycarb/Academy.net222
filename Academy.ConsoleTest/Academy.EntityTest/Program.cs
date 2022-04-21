@@ -11,10 +11,11 @@ namespace Academy.EntityTest
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
+            Person person = new Student("galilei","mario" );
             person.Name = "Mario";
             person.DateBirth = new DateTime(1994, 12, 10);
-            Console.WriteLine(person.getAge());
+            Console.WriteLine(person.SayHello());
+            Console.WriteLine(((Student)person).SayHello());
             Console.ReadKey();
         }
     }

@@ -13,5 +13,6 @@ namespace Academy.Common.Entities
         public string Color;
         public string Year;
 
+
     }
 }
