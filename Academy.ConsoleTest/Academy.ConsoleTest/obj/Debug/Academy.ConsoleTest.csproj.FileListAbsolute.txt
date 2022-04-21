@@ -6,3 +6,6 @@ C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Consol
 C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.ConsoleTest\obj\Debug\Academy.ConsoleTest.csproj.CoreCompileInputs.cache
 C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.ConsoleTest\obj\Debug\Academy.ConsoleTest.exe
 C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.ConsoleTest\obj\Debug\Academy.ConsoleTest.pdb
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.ConsoleTest\bin\Debug\Academy.Common.dll
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.ConsoleTest\bin\Debug\Academy.Common.pdb
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.ConsoleTest\obj\Debug\Academy.ConsoleTest.csproj.CopyComplete

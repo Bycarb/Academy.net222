@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Academy.Common;
+using Academy.Common.Enums;
+using static Academy.Common.Enums.Seasons;
 
 namespace Academy.ConsoleTest
 {
@@ -16,9 +18,13 @@ namespace Academy.ConsoleTest
             bool isParsed = int.TryParse(args[0], out result); //out consente di passare una primitiva per reference
             Console.WriteLine(result);
             Console.WriteLine(CommonConstants.AcademyName);
+            Season season = Season.Spring;
+            Console.WriteLine("Season = " + season);
+            Type seasonType = typeof(Season);
+            Type seasonObjType = season.GetType();
+            Console.WriteLine(seasonObjType.Name + " " + seasonType.Name);
 
-
-            First2Days(args);
+            //First2Days(args);
         }
 
         private static void First2Days(string[] args)

@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\bin\Debug\Academy.EntityTest.exe.config
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\bin\Debug\Academy.EntityTest.exe
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\bin\Debug\Academy.EntityTest.pdb
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\bin\Debug\Academy.Common.dll
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\bin\Debug\Academy.Common.pdb
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\obj\Debug\Academy.EntityTest.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\obj\Debug\Academy.EntityTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\obj\Debug\Academy.EntityTest.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\obj\Debug\Academy.EntityTest.csproj.CopyComplete
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\obj\Debug\Academy.EntityTest.exe
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.EntityTest\obj\Debug\Academy.EntityTest.pdb
