@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Academy.Common;
+using System;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Academy.Common;
-using Academy.Common.Enums;
 using static Academy.Common.Enums.Seasons;
 
 namespace Academy.ConsoleTest

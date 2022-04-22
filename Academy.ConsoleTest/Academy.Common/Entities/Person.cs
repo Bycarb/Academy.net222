@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Academy.Common.Entities
 {
@@ -12,12 +8,22 @@ namespace Academy.Common.Entities
         public DateTime DateBirth { get; set; }
 
         protected string StudyTitle { get; set; }
+        public string CF { get; set; }
+        public bool IsNewdriver { get; set; }
 
         public Car car { get; set; }
 
-        public Person(string name) 
-        { 
-            Name = name; 
+        public Person(string name)
+        {
+            Name = name;
+        }
+
+        public Person(String name, string CF, bool IsNewdriver)
+        {
+            this.Name = name;
+            this.CF = CF;
+            this.IsNewdriver = IsNewdriver;
+
         }
 
         public int getAge()

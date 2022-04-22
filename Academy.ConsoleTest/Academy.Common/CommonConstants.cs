@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Academy.Common
+﻿namespace Academy.Common
 {
     public static class CommonConstants
     {

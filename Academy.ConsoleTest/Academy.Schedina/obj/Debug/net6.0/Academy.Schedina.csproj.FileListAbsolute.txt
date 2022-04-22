@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\bin\Debug\net6.0\Academy.Schedina.exe
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\bin\Debug\net6.0\Academy.Schedina.deps.json
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\bin\Debug\net6.0\Academy.Schedina.runtimeconfig.json
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\bin\Debug\net6.0\Academy.Schedina.dll
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\bin\Debug\net6.0\Academy.Schedina.pdb
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\Academy.Schedina.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\Academy.Schedina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\Academy.Schedina.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\Academy.Schedina.AssemblyInfo.cs
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\Academy.Schedina.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\Academy.Schedina.dll
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\refint\Academy.Schedina.dll
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\Academy.Schedina.pdb
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\Academy.Schedina.genruntimeconfig.cache
+C:\Users\student\source\repos\Academy.net2022\Academy.ConsoleTest\Academy.Schedina\obj\Debug\net6.0\ref\Academy.Schedina.dll

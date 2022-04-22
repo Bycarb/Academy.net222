@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Academy.Common.Entities
+﻿namespace Academy.Common.Entities
 {
     public class Student : Person
     {
         public string School
-            { get; set; }
+        { get; set; }
         public Student(string school, string name) : base(name)
         {
             School = school;

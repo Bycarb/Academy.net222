@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Academy.Common.Entities;
+﻿using Academy.Common.Entities;
+using System;
 
 namespace Academy.EntityTest
 {
@@ -11,7 +7,7 @@ namespace Academy.EntityTest
     {
         static void Main(string[] args)
         {
-            Person person = new Student("galilei","mario" );
+            Person person = new Student("galilei", "mario");
             person.Name = "Mario";
             person.DateBirth = new DateTime(1994, 12, 10);
             Console.WriteLine(person.SayHello());
