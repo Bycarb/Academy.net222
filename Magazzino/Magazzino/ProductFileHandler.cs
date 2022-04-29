@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Magazzino
 {
-    internal class ProductFileHandler
+    public class ProductFileHandler
     {
         private readonly string Path;
 
-        ProductFileHandler (string path)
+        public ProductFileHandler (string path)
         {
             Path = path;
         }
@@ -19,7 +19,7 @@ namespace Magazzino
         {
             List<Product> products = new List<Product>();
             using var stream = new StreamReader(Path);
-            var header = "idcatalogo;idprodotto;prezzo";
+            var header = "idcatalogo;idprodotto;nomeprodotto;prezzo";
             string firstLine = stream.ReadLine();
             if (firstLine != header)
             {
@@ -33,7 +33,8 @@ namespace Magazzino
                 {
                     IdCatalogue = entries[0],
                     Id = entries[1],
-                    Price = int.Parse(entries[2])
+                    ProductName = entries[2],
+                    Price = double.Parse(entries[3])
 
                 };
                 products.Add(product);
@@ -44,7 +45,7 @@ namespace Magazzino
         public void AddProduct(Product product)
         {
                 using var stream = new StreamWriter(Path, true);
-                stream.WriteLine($"{product.IdCatalogue};{product.Id};{product.Price}");
+                stream.WriteLine($"{product.IdCatalogue};{product.Id};{product.ProductName};{product.Price}");
         }
     }
 }

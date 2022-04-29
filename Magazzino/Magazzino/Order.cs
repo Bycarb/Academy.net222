@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace Magazzino
 {
-    public class Ordine
+    public class Order
     {
         public string IDProduct { get; set; }
         public string ProductName { get; set; }
         public int Quantity { get; set; }
+        public string ToString()
+        {
+            return this.IDProduct +' '+ this.ProductName +' '+ this.Quantity;
+        }
 
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\bin\Debug\net6.0\Magazzino.exe
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\bin\Debug\net6.0\Magazzino.deps.json
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\bin\Debug\net6.0\Magazzino.runtimeconfig.json
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\bin\Debug\net6.0\Magazzino.dll
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\bin\Debug\net6.0\Magazzino.pdb
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\Magazzino.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\Magazzino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\Magazzino.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\Magazzino.AssemblyInfo.cs
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\Magazzino.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\Magazzino.dll
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\refint\Magazzino.dll
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\Magazzino.pdb
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\Magazzino.genruntimeconfig.cache
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\obj\Debug\net6.0\ref\Magazzino.dll
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\bin\Debug\net6.0\CSV\Catalogo.csv
+C:\Users\student\source\repos\Academy.net2022\Magazzino\Magazzino\bin\Debug\net6.0\CSV\Ordini.csv
