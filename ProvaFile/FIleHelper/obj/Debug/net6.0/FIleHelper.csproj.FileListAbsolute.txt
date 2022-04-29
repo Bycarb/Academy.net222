@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\bin\Debug\net6.0\FIleHelper.deps.json
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\bin\Debug\net6.0\FIleHelper.dll
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\bin\Debug\net6.0\FIleHelper.pdb
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\FIleHelper.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\FIleHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\FIleHelper.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\FIleHelper.AssemblyInfo.cs
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\FIleHelper.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\FIleHelper.dll
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\refint\FIleHelper.dll
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\FIleHelper.pdb
+C:\Users\student\source\repos\Academy.net2022\ProvaFile\FIleHelper\obj\Debug\net6.0\ref\FIleHelper.dll

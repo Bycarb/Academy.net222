@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\Academy.net2022\Aeroporti\Aeroporti\obj\Debug\Aeroporti.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Academy.net2022\Aeroporti\Aeroporti\obj\Debug\Aeroporti.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Academy.net2022\Aeroporti\Aeroporti\obj\Debug\Aeroporti.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Aeroporti\Aeroporti\bin\Debug\Aeroporti.exe.config
+C:\Users\student\source\repos\Academy.net2022\Aeroporti\Aeroporti\bin\Debug\Aeroporti.exe
+C:\Users\student\source\repos\Academy.net2022\Aeroporti\Aeroporti\bin\Debug\Aeroporti.pdb
+C:\Users\student\source\repos\Academy.net2022\Aeroporti\Aeroporti\obj\Debug\Aeroporti.exe
+C:\Users\student\source\repos\Academy.net2022\Aeroporti\Aeroporti\obj\Debug\Aeroporti.pdb

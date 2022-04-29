@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProvaFile/1.0.0": {
+        "dependencies": {
+          "FIleHelper": "1.0.0"
+        },
+        "runtime": {
+          "ProvaFile.dll": {}
+        }
+      },
+      "FIleHelper/1.0.0": {
+        "runtime": {
+          "FIleHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProvaFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FIleHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\bin\Debug\net6.0\TryCatchExample.exe
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\bin\Debug\net6.0\TryCatchExample.deps.json
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\bin\Debug\net6.0\TryCatchExample.runtimeconfig.json
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\bin\Debug\net6.0\TryCatchExample.dll
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\bin\Debug\net6.0\TryCatchExample.pdb
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\TryCatchExample.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\TryCatchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\TryCatchExample.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\TryCatchExample.AssemblyInfo.cs
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\TryCatchExample.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\TryCatchExample.dll
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\refint\TryCatchExample.dll
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\TryCatchExample.pdb
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\TryCatchExample.genruntimeconfig.cache
+C:\Users\student\source\repos\Academy.net2022\TryCatchExample\TryCatchExample\obj\Debug\net6.0\ref\TryCatchExample.dll
