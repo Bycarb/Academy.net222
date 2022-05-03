@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\bin\Debug\net6.0\LogisticaLibrary.deps.json
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\bin\Debug\net6.0\LogisticaLibrary.dll
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\bin\Debug\net6.0\LogisticaLibrary.pdb
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\LogisticaLibrary.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\LogisticaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\LogisticaLibrary.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\LogisticaLibrary.AssemblyInfo.cs
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\LogisticaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\LogisticaLibrary.dll
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\refint\LogisticaLibrary.dll
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\LogisticaLibrary.pdb
+C:\Users\student\source\repos\Academy.net2022\Logistica\LogisticaLibrary\obj\Debug\net6.0\ref\LogisticaLibrary.dll
