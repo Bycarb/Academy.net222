@@ -9,3 +9,4 @@ tnt.AddSpedizione(new Plico(14, "Bojack Horseman", "Peter Griffin", 5.50, 20, 25
 
 Console.WriteLine(tnt.ToString());
 Console.WriteLine($"Ingombro totale: {tnt.TotalIngombro()}");
+Console.ReadLine();

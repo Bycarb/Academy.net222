@@ -2,10 +2,10 @@
 {
     public abstract class Spedizione
     {
-        private int Id;
-        private string Sender;
-        private string Receiver;
-        public double Value { get; private set; }
+        private readonly int Id;
+        private readonly string Sender;
+        private readonly string Receiver;
+        private readonly double Value;
         public Spedizione(int id, string sender, string receiver, double value)
         {
             Id = id;
@@ -13,19 +13,18 @@
             Receiver = receiver;
             Value = value;
         }
-        public abstract double Ingombro(); // non printa, restituisce solo il valore
+        public abstract double Ingombro(); 
      
         public bool Equals(Spedizione spedizione)
         {
-            if(spedizione == null) return false;
-            if(spedizione.Sender.Equals(Sender)
+            if (spedizione == null) throw new ArgumentNullException(nameof(spedizione));
+            return spedizione.Sender.Equals(Sender)
                     && spedizione.Receiver.Equals(Receiver)
                     && spedizione.Value == Value
-                    && spedizione.Id == Id) //pasterebbe l'id ma per essere sicuri sicuri
-                return true;
-            else return false;
+                    && spedizione.Id == Id;
+       
         }
-        public string ToString()
+        public new string ToString()
         {
             return $"ID: {Id}\tSender: {Sender}\tReceiver: {Receiver}\t Value: {Value}";
         }

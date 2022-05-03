@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LogisticaLibrary
+﻿namespace LogisticaLibrary
 {
     public class Corriere
     {
-        public List<Spedizione> Spedizioni { get; private set; }
+        private readonly List<Spedizione> Spedizioni;
         public Corriere()
         {
             Spedizioni = new List<Spedizione>();
@@ -19,10 +13,10 @@ namespace LogisticaLibrary
         }
         public new string ToString()
         {
-            string result = "Elenco delle spedizioni del corriere:\n";
-            foreach (Spedizione spedizione in Spedizioni)
+            string result = $"Elenco delle spedizioni del corriere:{Environment.NewLine}";
+            foreach (var spedizione in Spedizioni)
             {
-                result += spedizione.ToString() + '\n';
+                result = $"{result} {spedizione.ToString()}{Environment.NewLine}";
             }
             return result;
         }

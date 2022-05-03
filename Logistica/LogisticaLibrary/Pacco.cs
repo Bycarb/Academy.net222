@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LogisticaLibrary
+﻿namespace LogisticaLibrary
 {
     public class Pacco : Spedizione
     {
@@ -19,7 +13,7 @@ namespace LogisticaLibrary
         }
         public override double Ingombro()
         {
-            return Height*Width*Depth;
+            return Height * Width * Depth;
         }
     }
 }

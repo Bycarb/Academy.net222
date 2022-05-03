@@ -1,22 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LogisticaLibrary
+﻿namespace LogisticaLibrary
 {
     public class Plico : Spedizione
     {
-        public double Height { get; private set; }
-        public double Width { get; private set; }
+        private readonly double Height;
+        private readonly double Width;
         public Plico(int id, string sender, string receiver, double value, double height, double width) : base(id, sender, receiver, value)
         {
             Height = height;
             Width = width;
         }
 
-        public override double Ingombro() => 0;
-        
+        public override double Ingombro() => Width * Height;
+
     }
 }
